@@ -2,7 +2,7 @@ This dataset has passenger information who boarded the Titanic along with other 
 
 This project is to carryout scatterplot,piechart,barplot and subplot on this dataset
 
-**Requirements**
+**Requirements;**
 Python , jupyter notebook, Numpy, Pandas, matplotlib and seaborn 
 Dataset(titanic.txt), added in the repository.
 
